@@ -1,0 +1,27 @@
+_repo: His-Lordship-s-Leopard--A-Truthful-Narration-of-Some-Impossible-Facts_30873
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, David Dwight
+    birthdate: 1868
+    deathdate: 1900
+    gutenberg_agent_id: '34869'
+    url: http://www.gutenberg.org/2009/agents/34869
+description: ''
+gutenberg_issued: '2010-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Spies -- Fiction'
+- !lcsh 'Humorous stories'
+title: 'His Lordship''s Leopard: A Truthful Narration of Some Impossible Facts'
+url: http://www.gutenberg.org/ebooks/30873
